@@ -354,7 +354,7 @@ function showScene4() {
         players.forEach(p => playerSel.append("option").text(p).attr("value", p));
 
         d3.selectAll("#leagueFilter, #nationFilter, #playerFilter")
-            .on("change", updateChart);
+            .on("change", update);
 
         // The filtering logic below is inspired by the implementation at:
         // https://d3-graph-gallery.com/graph/line_filter.html
