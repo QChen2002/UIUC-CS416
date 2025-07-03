@@ -1,0 +1,693 @@
+Player,Comp,Nation,Age,Pos,Squad,Gls_90,Ast_90,xG_90,xAG_90
+Rodrigo Abajas,es La Liga,es ESP,21.0,DF,Valencia,0.0,0.0,0.1,0.0
+James Abankwah,it Serie A,ie IRL,20.0,"DF,MF",Udinese,0.0,0.0,0.06,0.0
+Keyliane Abdallah,fr Ligue 1,fr FRA,18.0,FW,Marseille,0.0,0.0,0.0,0.0
+Nabil Aberdin,es La Liga,fr FRA,21.0,MF,Getafe,0.0,0.0,0.01,0.01
+Matthis Abline,fr Ligue 1,fr FRA,21.0,FW,Nantes,0.29,0.07,0.28,0.12
+Federico Accornero,it Serie A,it ITA,20.0,MF,Genoa,0.0,0.0,0.0,0.0
+Joshua Acheampong,eng Premier League,eng ENG,18.0,DF,Chelsea,0.0,0.0,0.12,0.0
+Martin Adeline,fr Ligue 1,fr FRA,20.0,MF,Reims,0.0,0.0,0.0,0.0
+Vasilije Adžić,it Serie A,me MNE,18.0,"MF,FW",Juventus,0.0,0.0,0.05,0.0
+Asher Agbinone,eng Premier League,eng ENG,18.0,MF,Crystal Palace,0.0,0.0,0.29,0.5
+Jeremy Agbonifo,fr Ligue 1,se SWE,18.0,"FW,MF",Lens,0.3,0.0,0.21,0.06
+Lorenzo Aguado,es La Liga,es ESP,21.0,DF,Real Madrid,0.0,0.0,0.0,0.0
+Honest Ahanor,it Serie A,it ITA,16.0,"DF,MF",Genoa,0.0,0.0,0.17,0.04
+Ayman Aiki,fr Ligue 1,fr FRA,19.0,"FW,MF",Saint-Étienne,0.0,0.0,0.07,0.02
+Junior Ajayi,it Serie A,ci CIV,19.0,FW,Hellas Verona,0.0,0.0,0.0,0.0
+Ümit Akdag,fr Ligue 1,ro ROU,20.0,DF,Toulouse,0.0,0.0,0.01,0.01
+Ilias Akhomach,es La Liga,ma MAR,20.0,"MF,FW",Villarreal,0.15,0.0,0.09,0.15
+Ibrahim Alani,es La Liga,ng NGA,18.0,MF,Valladolid,0.0,0.0,0.01,0.0
+Carlos Alcaraz,eng Premier League,ar ARG,21.0,MF,Southampton,0.0,0.0,0.62,0.86
+Carlos Alcaraz,eng Premier League,ar ARG,21.0,"FW,MF",Everton,0.24,0.35,0.2,0.19
+Mohamed Ali Cho,fr Ligue 1,fr FRA,20.0,"FW,MF",Nice,0.17,0.22,0.22,0.22
+Iker Almena,es La Liga,es ESP,20.0,"FW,DF",Girona,0.0,1.87,0.06,1.27
+Hugo Álvarez,es La Liga,es ESP,21.0,"MF,DF",Celta Vigo,0.23,0.17,0.14,0.07
+Will Alves,eng Premier League,eng ENG,19.0,FW,Leicester City,0.0,0.0,0.0,0.0
+Harry Amass,eng Premier League,eng ENG,17.0,DF,Manchester Utd,0.0,0.0,0.02,0.01
+Aurele Amenda,de Bundesliga,ch SUI,21.0,DF,Eint Frankfurt,0.0,0.0,0.0,0.23
+Samuel Amo-Ameyaw,eng Premier League,eng ENG,18.0,"FW,DF",Southampton,0.0,0.0,0.07,0.22
+Samuel Amo-Ameyaw,fr Ligue 1,eng ENG,18.0,"DF,MF",Strasbourg,0.56,0.0,0.2,0.16
+Mathis Amougou,eng Premier League,fr FRA,18.0,MF,Chelsea,0.0,0.0,0.0,0.0
+Mathis Amougou,fr Ligue 1,fr FRA,18.0,MF,Saint-Étienne,0.0,0.0,0.05,0.04
+Elliot Anderson,eng Premier League,eng ENG,21.0,MF,Nott'ham Forest,0.07,0.2,0.07,0.11
+Lorenzo Anghelè,it Serie A,it ITA,19.0,FW,Juventus,0.0,0.0,0.0,0.0
+Leandro Antonetti,es La Liga,pr PUR,21.0,FW,Sevilla,0.0,0.0,0.45,0.09
+Kyllian Antonio,fr Ligue 1,fr FRA,16.0,"DF,MF",Lens,0.0,0.0,0.03,0.0
+Antoniu,es La Liga,es ESP,21.0,"FW,MF",Espanyol,0.0,0.09,0.08,0.1
+Harrison Armstrong,eng Premier League,eng ENG,17.0,MF,Everton,0.0,0.0,0.69,0.14
+Hákon Arnar Haraldsson,fr Ligue 1,is ISL,21.0,"MF,FW",Lille,0.26,0.15,0.19,0.14
+Sergio Arribas,es La Liga,es ESP,21.0,DF,Betis,0.0,0.0,0.0,0.0
+Arthur,de Bundesliga,br BRA,21.0,DF,Leverkusen,0.0,0.12,0.01,0.04
+Raúl Asencio,es La Liga,es ESP,21.0,DF,Real Madrid,0.0,0.05,0.01,0.03
+Yaser Asprilla,es La Liga,co COL,20.0,"FW,MF",Girona,0.19,0.06,0.13,0.18
+Dehmaine Assoumani,fr Ligue 1,fr FRA,19.0,"MF,FW",Nantes,0.0,0.0,0.08,0.83
+Valentin Atangana Edoa,fr Ligue 1,fr FRA,18.0,MF,Reims,0.03,0.0,0.08,0.03
+Arthur Atta,it Serie A,fr FRA,21.0,"MF,FW",Udinese,0.0,0.07,0.1,0.1
+Yasin Ayari,eng Premier League,se SWE,20.0,MF,Brighton,0.09,0.05,0.11,0.11
+Adam Aznou,es La Liga,ma MAR,18.0,DF,Valladolid,0.0,0.0,0.03,0.03
+Adam Aznou,de Bundesliga,ma MAR,18.0,DF,Bayern Munich,0.0,0.0,0.0,0.0
+Papa Ba,es La Liga,es ESP,19.0,MF,Girona,0.0,0.0,0.06,0.0
+Jacopo Bacci,it Serie A,it ITA,19.0,MF,Empoli,0.0,0.0,0.0,0.0
+Aliou Badara Baldé,de Bundesliga,gn GUI,21.0,"MF,FW",Bochum,0.0,0.0,0.18,0.17
+Juma Bah,es La Liga,sl SLE,18.0,DF,Valladolid,0.0,0.0,0.03,0.0
+Juma Bah,fr Ligue 1,sl SLE,18.0,DF,Lens,0.0,0.0,0.01,0.02
+Stefan Bajcetic,es La Liga,es ESP,19.0,"MF,DF",Las Palmas,0.09,0.0,0.03,0.02
+Darryl Bakola,fr Ligue 1,fr FRA,16.0,"DF,MF",Marseille,0.0,0.0,0.0,0.0
+Dilane Bakwa,fr Ligue 1,fr FRA,21.0,"MF,DF",Strasbourg,0.22,0.29,0.17,0.24
+Tommaso Baldanzi,it Serie A,it ITA,21.0,"MF,FW",Roma,0.11,0.11,0.16,0.1
+Alejandro Balde,es La Liga,es ESP,20.0,DF,Barcelona,0.0,0.16,0.02,0.13
+Carlos Baleba,eng Premier League,cm CMR,20.0,MF,Brighton,0.1,0.03,0.1,0.05
+Mohamed Bamba,fr Ligue 1,ci CIV,19.0,MF,Reims,0.0,0.0,0.0,0.0
+Samuel Bamba,de Bundesliga,de GER,20.0,"FW,MF",Bochum,0.0,0.0,0.35,0.1
+Noahkai Banks,de Bundesliga,us USA,17.0,DF,Augsburg,0.0,0.0,0.02,0.0
+Adrian Baquerin,es La Liga,es ESP,17.0,FW,Valladolid,0.0,0.0,0.71,0.0
+Valentín Barco,es La Liga,ar ARG,20.0,"DF,FW",Sevilla,0.0,0.0,0.09,0.2
+Valentín Barco,fr Ligue 1,ar ARG,20.0,"MF,DF",Strasbourg,0.0,0.16,0.04,0.11
+Bradley Barcola,fr Ligue 1,fr FRA,21.0,FW,Paris S-G,0.58,0.41,0.55,0.42
+Téo Barisic,fr Ligue 1,fr FRA,19.0,DF,Lyon,0.0,0.0,0.0,0.0
+Pablo Barrios,es La Liga,es ESP,21.0,MF,Atlético Madrid,0.04,0.15,0.05,0.09
+Thierno Barry,es La Liga,fr FRA,21.0,FW,Villarreal,0.43,0.15,0.48,0.11
+Davide Bartesaghi,it Serie A,it ITA,18.0,DF,Milan,0.0,0.0,0.01,0.08
+Aboubacar Bassinga,es La Liga,ci CIV,19.0,MF,Las Palmas,0.0,0.0,0.0,0.0
+Rafael Bauza,es La Liga,es ESP,19.0,MF,Espanyol,0.0,0.0,0.04,0.0
+Maximilian Beier,de Bundesliga,de GER,21.0,"FW,MF",Dortmund,0.45,0.28,0.44,0.19
+Luken Beitia,es La Liga,es ESP,20.0,DF,Real Sociedad,0.0,0.0,0.0,0.0
+Ismael Bekhoucha,es La Liga,ma MAR,19.0,"MF,DF",Getafe,0.0,0.0,0.0,0.0
+Reda Belahyane,it Serie A,ma MAR,20.0,MF,Hellas Verona,0.0,0.11,0.01,0.06
+Reda Belahyane,it Serie A,ma MAR,20.0,MF,Lazio,0.0,0.0,0.0,0.0
+Jude Bellingham,es La Liga,eng ENG,21.0,MF,Real Madrid,0.33,0.29,0.41,0.14
+Jeanuël Belocian,de Bundesliga,fr FRA,19.0,"DF,MF",Leverkusen,0.0,0.0,0.0,0.0
+Eliesse Ben Seghir,fr Ligue 1,ma MAR,19.0,"MF,FW",Monaco,0.31,0.15,0.29,0.27
+Iker Benito,es La Liga,es ESP,21.0,"FW,MF",Osasuna,0.0,0.0,0.0,0.09
+Lucas Beraldo,fr Ligue 1,br BRA,20.0,DF,Paris S-G,0.04,0.0,0.04,0.02
+Lucas Bergvall,eng Premier League,se SWE,18.0,MF,Tottenham,0.0,0.07,0.05,0.04
+Medon Berisha,it Serie A,al ALB,20.0,MF,Lecce,0.0,0.13,0.09,0.07
+Marc Bernal,es La Liga,es ESP,17.0,MF,Barcelona,0.0,0.0,0.03,0.01
+Victor Bernth Kristiansen,eng Premier League,dk DEN,21.0,DF,Leicester City,0.0,0.04,0.01,0.05
+Alessandro Bianco,it Serie A,it ITA,21.0,MF,Monza,0.03,0.0,0.04,0.04
+Alessandro Bianco,it Serie A,it ITA,21.0,MF,Fiorentina,0.0,0.0,0.0,0.0
+Mika Biereth,fr Ligue 1,dk DEN,21.0,FW,Monaco,0.95,0.15,0.83,0.33
+Tom Bischof,de Bundesliga,de GER,19.0,"MF,FW",Hoffenheim,0.18,0.07,0.08,0.13
+Emmanuel Biumla,fr Ligue 1,fr FRA,19.0,DF,Angers,0.07,0.0,0.05,0.0
+Oscar Bobb,eng Premier League,no NOR,21.0,FW,Manchester City,0.0,0.0,0.0,0.41
+Mathéo Bodmer,fr Ligue 1,fr FRA,20.0,MF,Le Havre,0.0,0.0,0.0,0.0
+Lamare Bogarde,eng Premier League,nl NED,20.0,"DF,MF",Aston Villa,0.0,0.0,0.01,0.02
+Warren Bondo,it Serie A,fr FRA,20.0,MF,Monza,0.0,0.0,0.02,0.02
+Warren Bondo,it Serie A,fr FRA,20.0,MF,Milan,0.0,0.0,0.02,0.05
+Ange-Yoan Bonny,it Serie A,fr FRA,20.0,FW,Parma,0.21,0.14,0.34,0.1
+Saïmon Bouabré,fr Ligue 1,fr FRA,18.0,"MF,FW",Monaco,0.0,0.0,0.0,0.0
+Ayyoub Bouaddi,fr Ligue 1,fr FRA,16.0,MF,Lille,0.0,0.08,0.01,0.08
+Badredine Bouanani,fr Ligue 1,dz ALG,19.0,"MF,FW",Nice,0.25,0.25,0.22,0.19
+Justin Bourgault,fr Ligue 1,fr FRA,18.0,DF,Brest,0.74,0.0,0.05,0.1
+Conor Bradley,eng Premier League,nir NIR,21.0,DF,Liverpool,0.0,0.24,0.08,0.17
+Iker Bravo,it Serie A,es ESP,19.0,"FW,MF",Udinese,0.26,0.13,0.12,0.06
+Nathaniel Brown,de Bundesliga,de GER,21.0,"DF,MF",Eint Frankfurt,0.14,0.28,0.1,0.24
+Manu Bueno,es La Liga,es ESP,20.0,"MF,FW",Sevilla,0.64,0.0,0.08,0.0
+Endika Buján,es La Liga,es ESP,21.0,FW,Athletic Club,0.0,0.0,0.0,0.0
+Facundo Buonanotte,eng Premier League,ar ARG,19.0,"FW,MF",Leicester City,0.3,0.12,0.23,0.18
+Rareș-Cătălin Burnete,it Serie A,ro ROU,20.0,FW,Lecce,0.0,0.0,0.25,0.0
+Nathan Butler-Oyedeji,eng Premier League,eng ENG,21.0,FW,Arsenal,0.0,0.0,0.94,0.0
+Pau Cabanes,es La Liga,es ESP,19.0,"MF,FW",Villarreal,0.55,0.0,0.26,0.22
+Pau Cabanes,es La Liga,es ESP,19.0,"MF,FW",Alavés,0.0,0.0,0.02,0.01
+Alessio Cacciamani,it Serie A,it ITA,17.0,"MF,DF",Torino,0.0,0.0,0.0,0.0
+Issiaga Camara,fr Ligue 1,gn GUI,19.0,MF,Nice,0.0,0.0,0.0,0.0
+Lamine Camara,fr Ligue 1,sn SEN,20.0,MF,Monaco,0.09,0.31,0.1,0.19
+Ousmane Camara,fr Ligue 1,fr FRA,21.0,DF,Angers,0.0,0.0,0.03,0.01
+Francesco Camarda,it Serie A,it ITA,16.0,"FW,MF",Milan,0.0,0.0,0.25,0.23
+Eduardo Camavinga,es La Liga,fr FRA,21.0,"MF,DF",Real Madrid,0.08,0.16,0.04,0.06
+Axel Camblan,fr Ligue 1,fr FRA,20.0,"MF,FW",Brest,0.0,0.0,0.17,0.0
+Thomas Campaniello,it Serie A,it ITA,16.0,FW,Empoli,0.0,0.0,1.83,0.0
+Cole Campbell,de Bundesliga,us USA,18.0,"MF,FW",Dortmund,0.0,0.0,0.0,0.0
+Peio Canales,es La Liga,es ESP,19.0,"MF,FW",Athletic Club,0.0,0.0,0.07,0.08
+Jaydee Canvot,fr Ligue 1,fr FRA,18.0,"DF,MF",Toulouse,0.0,0.0,0.02,0.06
+Gabin Capuano,fr Ligue 1,fr FRA,18.0,FW,Lens,0.0,0.0,0.0,0.0
+Simon Cara,fr Ligue 1,fr FRA,19.0,"MF,FW",Montpellier,0.0,0.0,0.0,0.0
+Franco Carboni,it Serie A,it ITA,21.0,DF,Venezia,0.0,0.0,0.0,0.03
+Valentin Carboni,fr Ligue 1,ar ARG,19.0,"MF,FW",Marseille,0.0,0.0,0.04,0.1
+Tiago Cardoso,de Bundesliga,lu LUX,18.0,GK,Gladbach,0.0,0.0,0.0,0.0
+José Carlos González,es La Liga,es ESP,18.0,DF,Las Palmas,0.0,0.0,0.0,0.0
+Fabio Carvalho,eng Premier League,pt POR,21.0,"FW,MF",Brentford,0.4,0.2,0.49,0.13
+Cesare Casadei,it Serie A,it ITA,21.0,MF,Torino,0.09,0.09,0.1,0.03
+Marc Casado,es La Liga,es ESP,20.0,MF,Barcelona,0.06,0.17,0.06,0.08
+Kaelan Casey,eng Premier League,eng ENG,19.0,DF,West Ham,0.0,0.0,0.0,0.0
+Federico Cassa,it Serie A,it ITA,18.0,"MF,FW",Atalanta,0.0,0.0,0.0,0.0
+Santiago Castro,it Serie A,ar ARG,19.0,FW,Bologna,0.31,0.16,0.3,0.11
+Enzo Caumont,fr Ligue 1,fr FRA,20.0,MF,Angers,0.0,0.0,0.0,0.0
+Abdoulie Ceesay,de Bundesliga,gm GAM,20.0,FW,St. Pauli,0.0,0.0,0.0,0.03
+El Chadaille Bitshiabu,de Bundesliga,fr FRA,19.0,DF,RB Leipzig,0.0,0.0,0.02,0.03
+Fares Chaïbi,de Bundesliga,dz ALG,21.0,"MF,FW",Eint Frankfurt,0.09,0.27,0.23,0.26
+Raúl Chasco,es La Liga,es ESP,20.0,DF,Valladolid,0.0,0.0,0.0,0.02
+Anrie Chase,de Bundesliga,jp JPN,20.0,DF,Stuttgart,0.0,0.0,0.02,0.0
+Chema,es La Liga,es ESP,19.0,MF,Real Madrid,0.0,0.0,0.0,0.0
+Théo Chennahi,fr Ligue 1,fr FRA,19.0,DF,Montpellier,0.0,0.0,0.08,0.01
+Sidiki Cherif,fr Ligue 1,fr FRA,17.0,FW,Angers,0.0,0.0,0.2,0.05
+Rayan Cherki,fr Ligue 1,fr FRA,20.0,"FW,MF",Lyon,0.35,0.49,0.22,0.49
+Youssef Chermiti,eng Premier League,pt POR,20.0,"FW,MF",Everton,0.0,0.0,0.22,0.0
+Fabio Chiarodia,de Bundesliga,it ITA,19.0,DF,Gladbach,0.24,0.0,0.07,0.1
+Carney Chukwuemeka,de Bundesliga,eng ENG,20.0,MF,Dortmund,0.36,0.0,0.21,0.32
+Aaron Ciammaglichella,it Serie A,it ITA,19.0,MF,Torino,0.0,0.0,0.0,0.0
+Alessandro Circati,it Serie A,au AUS,20.0,DF,Parma,0.0,0.0,0.05,0.0
+Alphadjo Cissè,it Serie A,it ITA,17.0,"FW,MF",Hellas Verona,0.0,0.0,0.46,0.0
+Djaoui Cissé,fr Ligue 1,fr FRA,20.0,MF,Rennes,0.08,0.0,0.03,0.02
+Yoann Cissé,fr Ligue 1,fr FRA,19.0,MF,Auxerre,0.0,0.0,0.0,0.0
+Silvi Clúa,es La Liga,es ESP,19.0,MF,Girona,0.0,0.0,0.02,0.02
+Nnamdi Collins,de Bundesliga,de GER,20.0,DF,Eint Frankfurt,0.06,0.06,0.05,0.06
+Toby Collyer,eng Premier League,eng ENG,20.0,MF,Manchester Utd,0.0,0.0,0.09,0.13
+Levi Colwill,eng Premier League,eng ENG,21.0,DF,Chelsea,0.06,0.03,0.05,0.03
+Pietro Comuzzo,it Serie A,it ITA,19.0,DF,Fiorentina,0.04,0.0,0.02,0.02
+Francisco Conceição,it Serie A,pt POR,21.0,"FW,MF",Juventus,0.2,0.2,0.16,0.29
+Diego Coppola,it Serie A,it ITA,20.0,DF,Hellas Verona,0.06,0.0,0.02,0.0
+Iker Córdoba,es La Liga,es ESP,18.0,DF,Valencia,0.0,0.0,0.0,0.45
+Alberto costa,it Serie A,pt POR,20.0,DF,Juventus,0.0,0.25,0.15,0.05
+Lasso Coulibaly,fr Ligue 1,ci CIV,21.0,"FW,MF",Auxerre,2.0,0.0,0.56,0.13
+Mamadou Coulibaly,fr Ligue 1,fr FRA,20.0,MF,Monaco,0.0,0.0,0.85,0.0
+Soumaïla Coulibaly,fr Ligue 1,fr FRA,20.0,DF,Brest,0.0,0.0,0.03,0.02
+Marius Courcoul,fr Ligue 1,fr FRA,17.0,"MF,DF",Angers,0.0,0.0,0.03,0.01
+Charlie Cresswell,fr Ligue 1,eng ENG,21.0,DF,Toulouse,0.1,0.03,0.11,0.06
+Pau Cubarsí,es La Liga,es ESP,17.0,DF,Barcelona,0.0,0.1,0.03,0.06
+Maat Daniel Caprini,it Serie A,it ITA,18.0,FW,Fiorentina,0.0,0.0,0.0,0.0
+Jayden Danns,eng Premier League,eng ENG,18.0,MF,Liverpool,0.0,0.0,0.0,0.0
+Kévin Danois,fr Ligue 1,fr FRA,20.0,MF,Auxerre,0.0,0.0,0.09,0.13
+Bence Dárdai,de Bundesliga,hu HUN,18.0,MF,Wolfsburg,0.07,0.07,0.07,0.07
+Amar Dedić,fr Ligue 1,ba BIH,21.0,DF,Marseille,0.0,0.29,0.26,0.25
+Liam Delap,eng Premier League,eng ENG,21.0,FW,Ipswich Town,0.42,0.07,0.32,0.07
+Ali Dembélé,it Serie A,fr FRA,20.0,DF,Torino,0.23,0.0,0.08,0.02
+Justin Devenny,eng Premier League,nir NIR,20.0,MF,Crystal Palace,0.18,0.18,0.14,0.11
+Mamadou Diakhon,fr Ligue 1,fr FRA,18.0,"FW,MF",Reims,0.21,0.1,0.11,0.12
+Oumar Diakité,fr Ligue 1,ci CIV,20.0,FW,Reims,0.22,0.06,0.3,0.06
+Assane Diao,it Serie A,sn SEN,18.0,"FW,MF",Como,0.58,0.07,0.29,0.03
+Assane Diao,es La Liga,sn SEN,18.0,FW,Betis,0.32,0.65,0.26,0.5
+Habib Diarra,fr Ligue 1,sn SEN,20.0,"MF,FW",Strasbourg,0.15,0.19,0.13,0.17
+Mahamadou Diawara,fr Ligue 1,fr FRA,19.0,MF,Le Havre,0.0,0.15,0.06,0.06
+Mahamadou Diawara,fr Ligue 1,fr FRA,19.0,MF,Lyon,0.0,0.0,0.0,0.0
+Daniel Díaz,es La Liga,es ESP,18.0,MF,Real Sociedad,0.0,0.0,0.0,0.0
+Tyler Dibling,eng Premier League,eng ENG,18.0,"FW,MF",Southampton,0.1,0.0,0.12,0.07
+Justin Diehl,de Bundesliga,de GER,19.0,"FW,DF",Stuttgart,0.87,0.0,0.84,0.1
+Kembo Diliwidi,fr Ligue 1,fr FRA,18.0,DF,Lens,0.0,0.0,0.0,0.0
+Yan Diomandé,es La Liga,ci CIV,17.0,"MF,FW",Leganés,0.33,0.17,0.24,0.14
+Sérigné Diop,fr Ligue 1,sn SEN,19.0,FW,Brest,0.0,0.0,0.0,0.0
+Andy Diouf,fr Ligue 1,fr FRA,21.0,MF,Lens,0.04,0.08,0.12,0.11
+Roman Dixon,eng Premier League,eng ENG,19.0,DF,Everton,0.0,0.0,0.0,0.0
+Nasser Djiga,eng Premier League,bf BFA,21.0,DF,Wolves,0.0,0.0,0.0,0.0
+Marc Domenech,es La Liga,es ESP,18.0,"FW,MF",Mallorca,0.0,0.0,0.22,0.06
+Benjamín Domínguez,it Serie A,ar ARG,20.0,FW,Bologna,0.21,0.14,0.16,0.06
+Israel Domínguez,es La Liga,es ESP,21.0,FW,Sevilla,0.0,0.0,0.0,0.0
+Sergi Dominguez,es La Liga,es ESP,19.0,DF,Barcelona,0.0,0.0,0.0,0.0
+Patrick Dorgu,eng Premier League,dk DEN,19.0,DF,Manchester Utd,0.0,0.0,0.05,0.08
+Patrick Dorgu,it Serie A,dk DEN,19.0,"DF,FW",Lecce,0.15,0.05,0.16,0.07
+Alfie Dorrington,eng Premier League,eng ENG,19.0,DF,Tottenham,0.0,0.0,0.0,0.0
+Sékou Doucoure,fr Ligue 1,fr FRA,19.0,DF,Nantes,0.0,0.0,0.0,0.0
+Désiré Doué,fr Ligue 1,fr FRA,19.0,"FW,MF",Paris S-G,0.31,0.31,0.27,0.41
+Guela Doué,fr Ligue 1,ci CIV,21.0,DF,Strasbourg,0.03,0.07,0.03,0.02
+Ismaël Doukouré,fr Ligue 1,fr FRA,21.0,"DF,MF",Strasbourg,0.03,0.03,0.02,0.04
+Issa Doumbia,it Serie A,ci CIV,20.0,MF,Venezia,0.0,0.0,0.1,0.01
+Kamory Doumbia,fr Ligue 1,ml MLI,21.0,"MF,FW",Brest,0.2,0.14,0.19,0.08
+Amidou Doumbouya,fr Ligue 1,fr FRA,16.0,DF,Nice,0.0,0.0,0.0,0.0
+Tim Drexler,de Bundesliga,de GER,19.0,DF,Hoffenheim,0.0,0.0,0.01,0.01
+Jáder Durán,eng Premier League,co COL,20.0,FW,Aston Villa,0.99,0.0,0.69,0.03
+Julien Duranville,de Bundesliga,be BEL,18.0,"FW,MF",Dortmund,0.0,0.0,0.08,0.1
+Stefan Džodić,fr Ligue 1,rs SRB,19.0,"DF,MF",Montpellier,0.0,0.0,0.03,0.0
+Claudio Echeverri,eng Premier League,ar ARG,18.0,FW,Manchester City,0.0,0.0,0.0,0.0
+Noah Edjouma,fr Ligue 1,fr FRA,18.0,"MF,FW",Toulouse,1.05,0.0,0.67,0.03
+Samuel Edozie,eng Premier League,eng ENG,21.0,"DF,FW",Southampton,0.0,0.0,0.0,0.14
+Ronnie Edwards,eng Premier League,eng ENG,21.0,DF,Southampton,0.0,0.0,0.0,0.0
+Jeff Ekhator,it Serie A,it ITA,17.0,"FW,MF",Genoa,0.12,0.12,0.16,0.12
+Jacques Ekomie,fr Ligue 1,ga GAB,20.0,"DF,FW",Angers,0.0,0.0,0.0,0.0
+Harvey Elliott,eng Premier League,eng ENG,21.0,MF,Liverpool,0.24,0.49,0.43,0.26
+Emanuel Emegha,fr Ligue 1,nl NED,21.0,FW,Strasbourg,0.55,0.12,0.67,0.1
+Yunus Emre Konak,eng Premier League,tr TUR,18.0,"FW,MF",Brentford,0.0,0.0,0.33,0.0
+Julio Enciso,eng Premier League,py PAR,20.0,"MF,FW",Ipswich Town,0.21,0.31,0.18,0.14
+Julio Enciso,eng Premier League,py PAR,20.0,"MF,FW",Brighton,0.0,0.0,0.31,0.07
+Endrick,es La Liga,br BRA,18.0,FW,Real Madrid,0.25,0.0,0.61,0.12
+Arne Engels,de Bundesliga,be BEL,20.0,"MF,FW",Augsburg,0.0,0.0,0.45,0.0
+Romain Esse,eng Premier League,eng ENG,19.0,MF,Crystal Palace,0.65,0.65,0.21,0.27
+Dario Essugo,es La Liga,pt POR,19.0,MF,Las Palmas,0.05,0.0,0.03,0.02
+Estanis,it Serie A,es ESP,20.0,FW,Bologna,0.0,0.0,0.71,1.65
+Etienne Eto'o,es La Liga,cm CMR,21.0,FW,Rayo Vallecano,0.0,0.0,0.0,0.0
+Karl Etta,es La Liga,cm CMR,20.0,"MF,FW",Villarreal,2.43,0.0,0.88,0.0
+Giovanni Fabbian,it Serie A,it ITA,21.0,MF,Bologna,0.26,0.09,0.21,0.12
+Abdul Fatawu Issahaku,eng Premier League,gh GHA,20.0,FW,Leicester City,0.0,0.31,0.06,0.24
+Ansu Fati,es La Liga,es ESP,21.0,FW,Barcelona,0.0,0.0,0.38,0.06
+Khalil Fayad,fr Ligue 1,fr FRA,20.0,"MF,FW",Montpellier,0.0,0.0,0.11,0.02
+Jacopo Fazzini,it Serie A,it ITA,21.0,MF,Empoli,0.26,0.07,0.2,0.03
+Frank Feller,de Bundesliga,de GER,20.0,GK,Heidenheim,0.0,0.0,0.0,0.0
+Evan Ferguson,eng Premier League,ie IRL,19.0,FW,West Ham,0.0,0.0,0.32,0.17
+Evan Ferguson,eng Premier League,ie IRL,19.0,FW,Brighton,0.37,0.0,0.2,0.15
+Mateus Fernandes,eng Premier League,pt POR,20.0,MF,Southampton,0.06,0.12,0.12,0.09
+Pelayo Fernandez,es La Liga,es ESP,21.0,DF,Rayo Vallecano,0.0,0.0,0.0,0.0
+Matias Fernandez-Pardo,fr Ligue 1,be BEL,19.0,"FW,MF",Lille,0.34,0.17,0.24,0.24
+Daniel Fila,it Serie A,cz CZE,21.0,FW,Venezia,0.37,0.0,0.26,0.06
+Mateo Flores,es La Liga,es ESP,20.0,MF,Betis,0.0,0.0,0.0,0.0
+Malick Fofana,fr Ligue 1,be BEL,19.0,FW,Lyon,0.28,0.23,0.22,0.21
+Rayan Fofana,fr Ligue 1,fr FRA,18.0,"FW,MF",Lens,0.0,0.0,0.0,0.0
+Carlos Forbs,eng Premier League,pt POR,20.0,"MF,FW",Wolves,0.0,0.0,0.05,0.01
+Omari Forson,it Serie A,eng ENG,20.0,"MF,FW",Monza,0.0,0.0,0.09,0.21
+Héctor Fort,es La Liga,es ESP,17.0,DF,Barcelona,0.0,0.0,0.04,0.13
+Fran,es La Liga,es ESP,19.0,GK,Real Madrid,0.0,0.0,0.0,0.0
+Matheus França,eng Premier League,br BRA,20.0,"MF,FW",Crystal Palace,1.64,0.0,0.42,0.0
+Alejandro Francés,es La Liga,es ESP,21.0,DF,Girona,0.0,0.0,0.02,0.03
+Tyler Fredricson,eng Premier League,eng ENG,19.0,DF,Manchester Utd,0.0,0.0,0.0,0.0
+Darío Fuentes,es La Liga,es ESP,21.0,DF,Sevilla,0.0,0.0,0.0,0.0
+Shiō Fukuda,de Bundesliga,jp JPN,20.0,FW,Gladbach,1.5,0.0,0.65,0.0
+Tommaso Gabellini,it Serie A,it ITA,17.0,FW,Torino,0.0,0.0,0.45,0.0
+Tiago Gabriel,it Serie A,pt POR,19.0,DF,Lecce,0.0,0.0,0.0,0.0
+Andrés García,eng Premier League,es ESP,21.0,"DF,MF",Aston Villa,0.0,0.0,0.01,0.05
+Gonzalo García,es La Liga,es ESP,20.0,"FW,DF",Real Madrid,0.0,1.61,0.79,1.56
+Pablo Garcia,es La Liga,es ESP,17.0,FW,Betis,0.0,0.0,0.0,0.0
+Alejandro Garnacho,eng Premier League,ar ARG,20.0,"MF,FW",Manchester Utd,0.25,0.08,0.3,0.19
+Yarek Gasiorowski,es La Liga,es ESP,19.0,DF,Valencia,0.0,0.0,0.11,0.01
+Gavi,es La Liga,es ESP,19.0,"MF,FW",Barcelona,0.08,0.08,0.07,0.13
+Viggo Gebel,de Bundesliga,de GER,16.0,MF,RB Leipzig,0.0,0.0,0.0,0.0
+Tyrique George,eng Premier League,eng ENG,18.0,FW,Chelsea,0.49,0.49,0.1,0.36
+Daniele Ghilardi,it Serie A,it ITA,21.0,DF,Hellas Verona,0.0,0.0,0.03,0.01
+Gvidas Gineitis,it Serie A,lt LTU,20.0,MF,Torino,0.19,0.06,0.08,0.13
+Jamie Gittens,de Bundesliga,eng ENG,19.0,"FW,MF",Dortmund,0.41,0.15,0.18,0.13
+Martial Godo,eng Premier League,eng ENG,21.0,"FW,DF",Fulham,0.0,0.0,0.0,0.21
+Saba Goglichidze,it Serie A,ge GEO,20.0,DF,Empoli,0.0,0.04,0.01,0.01
+Michael Golding,eng Premier League,eng ENG,18.0,MF,Leicester City,0.0,0.0,0.0,0.0
+Rodrigo Gomes,eng Premier League,pt POR,21.0,"DF,FW",Wolves,0.22,0.0,0.08,0.1
+Carlos Gómez,fr Ligue 1,co COL,21.0,"MF,DF",Rennes,0.71,0.0,0.31,0.06
+Diego Gómez,eng Premier League,py PAR,21.0,MF,Brighton,0.17,0.0,0.15,0.13
+Unai Gómez,es La Liga,es ESP,21.0,"MF,FW",Athletic Club,0.07,0.21,0.13,0.06
+Tidiam Gomis,de Bundesliga,fr FRA,17.0,"MF,FW",RB Leipzig,0.0,0.59,0.15,0.55
+Lucas Gourna-Douath,it Serie A,fr FRA,20.0,MF,Roma,0.0,0.0,0.05,0.04
+Archie Gray,eng Premier League,eng ENG,18.0,"DF,MF",Tottenham,0.0,0.0,0.0,0.01
+Brajan Gruda,eng Premier League,de GER,20.0,"MF,FW",Brighton,0.13,0.52,0.16,0.28
+Axel Gueguin,fr Ligue 1,fr FRA,19.0,FW,Montpellier,0.0,0.0,0.0,0.0
+Javier Guerra,es La Liga,es ESP,21.0,MF,Valencia,0.1,0.1,0.08,0.11
+Luis Guilherme,eng Premier League,br BRA,18.0,"MF,FW",West Ham,0.0,0.0,0.25,0.05
+Carlos Guirao,es La Liga,es ESP,21.0,MF,Betis,0.0,0.0,0.0,0.0
+Bahereba Guirassy,fr Ligue 1,fr FRA,17.0,"FW,MF",Nantes,0.52,0.0,0.18,0.02
+Marc Guiu,eng Premier League,es ESP,18.0,FW,Chelsea,0.0,0.0,0.0,0.04
+Arda Güler,es La Liga,tr TUR,19.0,"MF,FW",Real Madrid,0.22,0.29,0.24,0.32
+Malo Gusto,eng Premier League,fr FRA,21.0,DF,Chelsea,0.0,0.05,0.08,0.07
+Saad El Haddad,it Serie A,ma MAR,19.0,MF,Venezia,0.0,0.0,0.0,0.07
+Mohamed Haj,it Serie A,tn TUN,19.0,MF,Parma,0.2,0.4,0.13,0.24
+Lewis Hall,eng Premier League,eng ENG,19.0,DF,Newcastle Utd,0.0,0.16,0.02,0.18
+Ayden Heaven,eng Premier League,eng ENG,17.0,DF,Manchester Utd,0.0,0.0,0.07,0.01
+Paul Hennrich,de Bundesliga,de GER,19.0,MF,Hoffenheim,0.0,0.0,0.0,0.0
+Juan Herzog,es La Liga,es ESP,21.0,DF,Las Palmas,0.0,0.0,0.06,0.0
+Omar El Hilali,es La Liga,ma MAR,20.0,DF,Espanyol,0.0,0.06,0.0,0.02
+Roger Hinojo,es La Liga,es ESP,19.0,DF,Espanyol,0.0,0.0,0.0,0.0
+Jack Hinshelwood,eng Premier League,eng ENG,19.0,"MF,DF",Brighton,0.24,0.1,0.13,0.07
+Ilyes Housni,fr Ligue 1,fr FRA,19.0,"FW,MF",Le Havre,0.0,0.0,0.09,0.08
+Harry Howell,eng Premier League,eng ENG,15.0,FW,Brighton,0.0,0.0,0.0,0.0
+Dean Huijsen,eng Premier League,es ESP,19.0,DF,Bournemouth,0.11,0.07,0.07,0.08
+Omari Hutchinson,eng Premier League,eng ENG,20.0,"MF,FW",Ipswich Town,0.1,0.07,0.1,0.12
+Oscar Højlund,de Bundesliga,dk DEN,19.0,MF,Eint Frankfurt,0.12,0.0,0.12,0.13
+Rasmus Højlund,eng Premier League,dk DEN,21.0,FW,Manchester Utd,0.18,0.0,0.24,0.08
+Hafiz Ibrahim,fr Ligue 1,ng NGA,18.0,FW,Reims,0.0,0.23,0.12,0.14
+Arijon Ibrahimović,it Serie A,de GER,18.0,MF,Lazio,0.0,0.0,0.85,0.0
+Arijon Ibrahimović,de Bundesliga,de GER,18.0,FW,Bayern Munich,0.0,0.0,0.0,0.0
+Stanis Idumbo,es La Liga,be BEL,19.0,"FW,MF",Sevilla,0.32,0.32,0.2,0.23
+George Ilenikhena,fr Ligue 1,ng NGA,17.0,FW,Monaco,0.38,0.25,0.64,0.18
+Rareş Ilie,fr Ligue 1,ro ROU,21.0,MF,Nice,0.0,0.0,0.25,2.47
+Samuel Iling-Junior,it Serie A,eng ENG,20.0,"FW,MF",Bologna,0.76,0.0,0.11,0.09
+Tim Iroegbunam,eng Premier League,eng ENG,21.0,MF,Everton,0.0,0.16,0.04,0.03
+Yanis Issoufou,fr Ligue 1,fr FRA,17.0,"MF,FW",Montpellier,0.0,0.0,0.07,0.0
+Diego Iturralde,es La Liga,es ESP,21.0,FW,Sevilla,0.0,0.0,0.21,0.0
+Fellipe Jack,it Serie A,br BRA,18.0,DF,Como,0.0,0.0,0.0,0.03
+Jérémy Jacquet,fr Ligue 1,fr FRA,19.0,DF,Rennes,0.0,0.1,0.08,0.08
+Jordan James,fr Ligue 1,wls WAL,20.0,MF,Rennes,0.0,0.08,0.07,0.15
+Luca Jaquez,de Bundesliga,ch SUI,21.0,DF,Stuttgart,0.0,0.0,0.08,0.0
+Ali Jasim,it Serie A,iq IRQ,20.0,"FW,DF",Como,0.0,0.0,0.0,0.0
+Mikel Jauregizar,es La Liga,es ESP,20.0,MF,Athletic Club,0.08,0.04,0.04,0.06
+Dominik Javorček,de Bundesliga,sk SVK,21.0,"DF,MF",Holstein Kiel,0.0,0.47,0.0,0.23
+Daniel Jebbison,eng Premier League,eng ENG,20.0,FW,Bournemouth,0.76,0.0,0.75,0.15
+Finn Jeltsch,de Bundesliga,de GER,18.0,DF,Stuttgart,0.0,0.0,0.01,0.01
+Malcolm Jeng,fr Ligue 1,se SWE,19.0,DF,Reims,0.0,0.0,0.0,0.0
+Alejandro Jiménez,it Serie A,es ESP,19.0,"DF,FW",Milan,0.0,0.07,0.06,0.09
+Kim Jisoo,eng Premier League,kr KOR,19.0,DF,Brentford,0.0,0.0,0.0,0.0
+John Joe,es La Liga,ie IRL,20.0,"MF,FW",Getafe,0.0,0.0,0.26,0.0
+John Joe,fr Ligue 1,ie IRL,20.0,MF,Reims,0.0,0.0,0.03,0.0
+Antoine Joujou,fr Ligue 1,fr FRA,21.0,"MF,FW",Le Havre,0.0,0.19,0.06,0.29
+Yusuf Kabadayı,de Bundesliga,de GER,20.0,"FW,MF",Augsburg,1.27,0.0,0.82,0.06
+Almugera Kabar,de Bundesliga,de GER,18.0,DF,Dortmund,0.0,0.0,0.0,0.36
+Yaya Kader Fofana,fr Ligue 1,ml MLI,20.0,"MF,FW",Reims,0.14,0.14,0.09,0.24
+Justin-Noël Kalumba,fr Ligue 1,fr FRA,19.0,"FW,MF",Angers,0.0,0.0,0.05,0.0
+Noham Kamara,fr Ligue 1,fr FRA,17.0,DF,Paris S-G,0.0,0.0,0.0,0.0
+Willy Kambwala,es La Liga,fr FRA,19.0,DF,Villarreal,0.0,0.0,0.03,0.01
+Lior Kasa,it Serie A,il ISR,18.0,"MF,FW",Genoa,0.0,0.0,0.45,0.03
+Joachim Kayi Sanda,eng Premier League,fr FRA,17.0,DF,Southampton,0.0,0.0,0.0,0.0
+Michael Kayode,eng Premier League,it ITA,20.0,DF,Brentford,0.0,0.17,0.04,0.21
+Michael Kayode,it Serie A,it ITA,20.0,"DF,FW",Fiorentina,0.0,0.0,0.07,0.13
+Abdoulaye Keita,es La Liga,es ESP,21.0,"FW,MF",Getafe,0.0,0.0,0.05,0.0
+Andu Kelati,de Bundesliga,de GER,21.0,"MF,DF",Holstein Kiel,0.31,0.31,0.27,0.26
+Aljoscha Kemlein,de Bundesliga,de GER,19.0,MF,Union Berlin,0.1,0.0,0.09,0.06
+Milos Kerkez,eng Premier League,hu HUN,20.0,DF,Bournemouth,0.05,0.13,0.02,0.1
+Bilal El Khannouss,eng Premier League,ma MAR,20.0,"MF,FW",Leicester City,0.08,0.12,0.05,0.19
+Abdukodir Khusanov,eng Premier League,uz UZB,20.0,DF,Manchester City,0.0,0.0,0.0,0.02
+Abdukodir Khusanov,fr Ligue 1,uz UZB,20.0,DF,Lens,0.0,0.0,0.02,0.03
+Joshua King,eng Premier League,eng ENG,17.0,MF,Fulham,0.0,0.0,0.22,0.3
+Antonín Kinský,eng Premier League,cz CZE,21.0,GK,Tottenham,0.0,0.0,0.0,0.01
+Mert Kömür,de Bundesliga,de GER,19.0,MF,Augsburg,0.28,0.14,0.16,0.2
+Ismael Konate,it Serie A,ci CIV,18.0,"FW,MF",Empoli,0.0,0.78,0.15,0.03
+Abdoul Koné,fr Ligue 1,fr FRA,19.0,DF,Reims,0.0,0.0,0.0,0.0
+Amadou Koné,fr Ligue 1,ml MLI,19.0,MF,Reims,0.0,0.0,0.04,0.02
+Kacper Koscierski,de Bundesliga,de GER,17.0,DF,Bochum,0.0,0.0,0.0,0.0
+Konstantinos Koulierakis,de Bundesliga,gr GRE,20.0,DF,Wolfsburg,0.0,0.07,0.03,0.04
+Emmanuel Koum Mbondo,fr Ligue 1,fr FRA,18.0,DF,Marseille,0.0,0.0,0.0,0.0
+Mateusz Kowalski,it Serie A,pl POL,19.0,MF,Parma,0.0,0.0,0.69,0.0
+Caleb Kporha,eng Premier League,eng ENG,18.0,DF,Crystal Palace,0.0,0.0,0.0,0.0
+Frans Krätzig,de Bundesliga,de GER,21.0,"DF,MF",Heidenheim,0.07,0.15,0.05,0.13
+Frans Krätzig,de Bundesliga,de GER,21.0,DF,Stuttgart,0.0,0.0,0.0,0.0
+Sael Kumbedi,fr Ligue 1,fr FRA,19.0,DF,Lyon,0.0,0.0,0.03,0.03
+Jonah Kusi-Asare,de Bundesliga,se SWE,17.0,FW,Bayern Munich,0.0,0.0,1.12,0.0
+Rémy Labeau Lascary,fr Ligue 1,gp GLP,21.0,"FW,MF",Lens,0.28,0.14,0.36,0.15
+Younes Lachaab,fr Ligue 1,fr FRA,19.0,"MF,FW",Lille,0.0,0.0,0.95,0.0
+Yoel Lago,es La Liga,es ESP,20.0,DF,Celta Vigo,0.0,0.15,0.0,0.02
+Mathis Lambourde,it Serie A,fr FRA,18.0,"FW,MF",Hellas Verona,1.01,0.0,0.15,0.09
+Will Lankshear,eng Premier League,eng ENG,19.0,"FW,MF",Tottenham,0.0,0.0,0.0,0.0
+Hugo Larsson,de Bundesliga,se SWE,20.0,MF,Eint Frankfurt,0.11,0.04,0.12,0.08
+Roméo Lavia,eng Premier League,be BEL,20.0,MF,Chelsea,0.0,0.11,0.03,0.08
+Stefan Lekovic,it Serie A,rs SRB,20.0,DF,Monza,0.0,0.0,0.03,0.0
+Félix Lemaréchal,fr Ligue 1,fr FRA,20.0,"MF,FW",Strasbourg,0.2,0.15,0.18,0.15
+Giovanni Leoni,it Serie A,it ITA,17.0,DF,Parma,0.08,0.0,0.01,0.0
+Johann Lepenant,fr Ligue 1,fr FRA,21.0,MF,Nantes,0.09,0.04,0.06,0.04
+Louis Leroux,fr Ligue 1,fr FRA,18.0,"MF,DF",Nantes,0.22,0.11,0.16,0.15
+Rico Lewis,eng Premier League,eng ENG,19.0,"DF,MF",Manchester City,0.05,0.1,0.07,0.02
+Myles Lewis-Skelly,eng Premier League,eng ENG,17.0,DF,Arsenal,0.07,0.0,0.01,0.03
+Mattia Liberali,it Serie A,it ITA,17.0,MF,Milan,0.0,0.0,0.1,0.03
+Pedro Lima,eng Premier League,br BRA,18.0,DF,Wolves,0.0,0.0,0.07,0.09
+Valentino Livramento,eng Premier League,eng ENG,21.0,DF,Newcastle Utd,0.0,0.03,0.01,0.08
+Javier Llabrés,es La Liga,es ESP,21.0,FW,Mallorca,0.0,0.0,0.08,0.14
+Elysée Logbo,fr Ligue 1,fr FRA,20.0,FW,Le Havre,0.0,0.0,0.61,0.0
+David López,es La Liga,es ESP,21.0,DF,Mallorca,0.0,0.0,0.0,0.0
+Fermin López,es La Liga,es ESP,21.0,"MF,FW",Barcelona,0.43,0.36,0.41,0.28
+Tom Louchet,fr Ligue 1,fr FRA,21.0,"DF,MF",Nice,0.12,0.0,0.09,0.14
+Yannik Lührs,de Bundesliga,de GER,20.0,DF,Dortmund,0.0,0.0,0.0,0.03
+Castello Lukeba,de Bundesliga,fr FRA,21.0,DF,RB Leipzig,0.0,0.0,0.02,0.01
+Milos Lukovic,fr Ligue 1,rs SRB,18.0,"FW,MF",Strasbourg,0.0,0.0,0.0,0.0
+Daniel Luna,es La Liga,co COL,21.0,MF,Mallorca,0.0,0.0,0.0,0.0
+Mathias Løvik,it Serie A,no NOR,20.0,"DF,FW",Parma,0.0,0.0,0.09,0.08
+Othmane Maamma,fr Ligue 1,ma MAR,18.0,"FW,MF",Montpellier,0.25,0.25,0.23,0.06
+Lanroy Machine,fr Ligue 1,fr FRA,18.0,FW,Angers,0.0,0.0,0.62,0.0
+Soungoutou Magassa,fr Ligue 1,fr FRA,20.0,MF,Monaco,0.0,0.09,0.04,0.08
+Kobbie Mainoo,eng Premier League,eng ENG,19.0,MF,Manchester Utd,0.0,0.0,0.04,0.09
+Hamidou Makalou,fr Ligue 1,ml MLI,18.0,"FW,MF",Brest,0.0,0.0,0.0,0.0
+Jarzinho Malanga,de Bundesliga,de GER,18.0,DF,Stuttgart,0.0,0.0,0.0,0.0
+Aaron Malouda,fr Ligue 1,fr FRA,18.0,FW,Lille,0.0,0.0,0.0,0.0
+Johan Manzambi,de Bundesliga,ch SUI,18.0,"FW,MF",Freiburg,0.54,0.27,0.36,0.12
+Alberto Manzoni,it Serie A,it ITA,19.0,MF,Atalanta,0.0,0.0,0.94,0.0
+Alessandro Marcandalli,it Serie A,it ITA,21.0,DF,Genoa,0.0,0.0,0.0,0.0
+Alessandro Marcandalli,it Serie A,it ITA,21.0,DF,Venezia,0.0,0.0,0.07,0.0
+Luca Marianucci,it Serie A,it ITA,20.0,DF,Empoli,0.0,0.0,0.05,0.02
+Arkaitz Mariezkurrena,es La Liga,es ESP,19.0,"FW,MF",Real Sociedad,0.75,0.0,0.36,0.06
+Pablo Marín,es La Liga,es ESP,21.0,MF,Real Sociedad,0.07,0.15,0.1,0.07
+Mario Maroto,es La Liga,es ESP,20.0,MF,Valladolid,0.0,1.41,0.02,0.09
+Ange Martial Tia,fr Ligue 1,ml MLI,17.0,"MF,DF",Reims,0.0,0.0,0.68,0.01
+Diego Martín,es La Liga,es ESP,20.0,FW,Las Palmas,0.0,0.0,0.08,0.0
+Jon Martin,es La Liga,es ESP,18.0,DF,Real Sociedad,0.0,0.1,0.06,0.02
+Mario Martín,es La Liga,es ESP,20.0,MF,Valladolid,0.0,0.05,0.09,0.07
+Arnau Martinez,es La Liga,es ESP,21.0,"DF,MF",Girona,0.07,0.07,0.04,0.08
+Ramón Martínez,es La Liga,es ESP,21.0,DF,Sevilla,0.34,0.0,0.12,0.02
+Kevin Martins,it Serie A,it ITA,19.0,"MF,DF",Monza,0.0,0.49,0.0,0.19
+Igor Matanovic,de Bundesliga,hr CRO,21.0,FW,Eint Frankfurt,0.29,0.0,0.33,0.01
+Pape Matar Sarr,eng Premier League,sn SEN,21.0,MF,Tottenham,0.14,0.09,0.17,0.08
+Rudy Matondo,fr Ligue 1,fr FRA,16.0,MF,Auxerre,0.0,0.0,0.0,0.0
+Jean Mattéo Bahoya,de Bundesliga,fr FRA,19.0,"MF,FW",Eint Frankfurt,0.2,0.29,0.18,0.17
+Alan Matturro,it Serie A,uy URU,19.0,DF,Genoa,0.0,0.0,0.02,0.02
+Christian Mawissa,fr Ligue 1,fr FRA,19.0,DF,Monaco,0.0,0.0,0.0,0.0
+Keke Maximilian Topp,de Bundesliga,de GER,20.0,"FW,MF",Werder Bremen,0.71,0.71,0.35,0.72
+Senny Mayulu,fr Ligue 1,fr FRA,18.0,MF,Paris S-G,0.22,0.22,0.32,0.23
+Andrea Mazza,it Serie A,it ITA,20.0,GK,Monza,0.0,0.0,0.0,0.0
+Samuel Mbangula,it Serie A,be BEL,20.0,FW,Juventus,0.38,0.38,0.08,0.17
+Ethan Mbappé,fr Ligue 1,fr FRA,17.0,"MF,FW",Lille,0.0,0.0,0.44,0.6
+Ibrahim Mbaye,fr Ligue 1,fr FRA,16.0,"FW,MF",Paris S-G,0.26,0.26,0.48,0.3
+James Mcatee,eng Premier League,eng ENG,21.0,"MF,FW",Manchester City,0.77,0.0,0.72,0.13
+Jayden Meghoma,eng Premier League,eng ENG,18.0,DF,Brentford,0.0,0.0,0.0,0.0
+Henrik Meister,fr Ligue 1,dk DEN,20.0,FW,Rennes,1.43,0.0,0.09,0.37
+Mohamed Meité,fr Ligue 1,fr FRA,16.0,FW,Rennes,0.33,0.0,0.41,0.1
+Mateo Mejía,es La Liga,es ESP,21.0,FW,Sevilla,0.0,0.0,0.0,0.0
+Antoine Mendy,fr Ligue 1,sn SEN,20.0,DF,Nice,0.0,0.0,0.06,0.01
+Nobel Mendy,es La Liga,fr FRA,19.0,DF,Betis,0.0,0.0,0.0,0.0
+Rafik Messali,fr Ligue 1,fr FRA,21.0,DF,Toulouse,0.0,0.2,0.05,0.2
+Shumaira Mheuka,eng Premier League,eng ENG,16.0,MF,Chelsea,0.0,0.0,5.06,0.0
+Lucas Michal,fr Ligue 1,fr FRA,19.0,"FW,MF",Monaco,0.0,0.0,0.17,0.7
+Florian Micheler,de Bundesliga,at AUT,19.0,MF,Hoffenheim,0.0,0.0,0.0,0.0
+Igor Miladinović,fr Ligue 1,rs SRB,21.0,"FW,MF",Saint-Étienne,0.0,0.0,0.0,0.0
+Lewis Miley,eng Premier League,eng ENG,18.0,MF,Newcastle Utd,0.29,0.0,0.16,0.01
+Lucas Mincarelli,fr Ligue 1,fr FRA,20.0,DF,Montpellier,0.13,0.0,0.08,0.03
+Kim Minsu,es La Liga,kr KOR,18.0,"MF,FW",Girona,0.0,0.0,0.0,0.0
+Yankuba Minteh,eng Premier League,gm GAM,20.0,"FW,MF",Brighton,0.29,0.2,0.2,0.24
+Fabio Miretti,it Serie A,it ITA,20.0,"MF,FW",Genoa,0.16,0.16,0.17,0.11
+David Mokwa,de Bundesliga,fr FRA,20.0,"DF,FW",Hoffenheim,0.0,0.0,1.21,0.0
+Alberto Moleiro,es La Liga,es ESP,20.0,"FW,MF",Las Palmas,0.2,0.03,0.19,0.11
+Mikey Moore,eng Premier League,eng ENG,16.0,FW,Tottenham,0.0,0.25,0.05,0.08
+Diego Moreira,fr Ligue 1,pt POR,19.0,"DF,MF",Strasbourg,0.07,0.25,0.07,0.25
+Matias Moreno,it Serie A,ar ARG,20.0,DF,Fiorentina,0.0,0.0,0.0,0.01
+Xavier Moreno,es La Liga,es ESP,19.0,FW,Valladolid,0.0,0.0,0.0,0.0
+Ilaix Moriba,es La Liga,gn GUI,21.0,MF,Celta Vigo,0.04,0.04,0.07,0.06
+Raúl Moro,es La Liga,es ESP,21.0,"MF,FW",Valladolid,0.15,0.19,0.16,0.22
+Gabriel Moscardo,fr Ligue 1,br BRA,18.0,"MF,DF",Reims,0.0,0.0,0.22,0.0
+Cristhian Mosquera,es La Liga,es ESP,20.0,DF,Valencia,0.03,0.0,0.01,0.0
+Yael Mouanga,fr Ligue 1,fr FRA,19.0,DF,Montpellier,0.0,0.0,0.01,0.02
+Youssoufa Moukoko,fr Ligue 1,de GER,19.0,"FW,MF",Nice,0.88,0.44,0.96,0.36
+Divin Mubama,eng Premier League,eng ENG,19.0,FW,Manchester City,0.0,0.0,0.12,0.0
+Ngal'Ayel Mukau,fr Ligue 1,cd COD,19.0,MF,Lille,0.0,0.08,0.06,0.05
+Iker Muñoz,es La Liga,es ESP,21.0,MF,Osasuna,0.0,0.15,0.07,0.14
+Víctor Muñoz,es La Liga,es ESP,21.0,"FW,DF",Real Madrid,0.0,0.0,1.23,0.0
+Bob Murphy Omoregbe,it Serie A,it ITA,20.0,MF,Milan,0.0,0.0,0.0,0.0
+Yunus Musah,it Serie A,us USA,21.0,"MF,FW",Milan,0.0,0.11,0.11,0.1
+Jamal Musiala,de Bundesliga,de GER,21.0,MF,Bayern Munich,0.6,0.1,0.46,0.23
+Kingstone Mutandwa,it Serie A,zm ZAM,21.0,"FW,MF",Cagliari,0.0,0.0,0.25,0.0
+Junior Mwanga,fr Ligue 1,fr FRA,21.0,MF,Le Havre,0.09,0.19,0.12,0.1
+Junior Mwanga,fr Ligue 1,fr FRA,21.0,MF,Strasbourg,0.0,0.0,0.0,0.01
+Loïc N'Gatta,fr Ligue 1,fr FRA,20.0,DF,Auxerre,0.0,0.0,0.0,0.0
+Djylian N'Guessan,fr Ligue 1,fr FRA,15.0,FW,Saint-Étienne,0.0,0.0,0.2,0.07
+Bilal Nadir,fr Ligue 1,ma MAR,20.0,MF,Marseille,0.23,0.0,0.14,0.1
+Mahamadou Nagida,fr Ligue 1,cm CMR,19.0,DF,Rennes,0.42,0.0,0.31,0.07
+Yael Nandjou,fr Ligue 1,fr FRA,19.0,DF,Nice,0.0,0.0,0.13,0.44
+Pau Navarro,es La Liga,es ESP,19.0,DF,Villarreal,0.0,0.0,0.0,0.0
+Junior Ndiaye,fr Ligue 1,fr FRA,19.0,FW,Montpellier,0.0,0.0,0.1,0.09
+Wilfried Ndollo,fr Ligue 1,cm CMR,19.0,DF,Montpellier,0.0,0.0,0.0,0.01
+Cher Ndour,it Serie A,it ITA,20.0,"MF,DF",Fiorentina,0.0,0.0,0.03,0.01
+Paul Nebel,de Bundesliga,de GER,21.0,MF,Mainz 05,0.38,0.15,0.22,0.16
+Kosta Nedeljković,eng Premier League,rs SRB,18.0,DF,Aston Villa,0.0,0.0,0.0,0.0
+Kosta Nedeljković,de Bundesliga,rs SRB,18.0,DF,RB Leipzig,0.0,0.0,0.09,0.05
+Luca Netz,de Bundesliga,de GER,21.0,DF,Gladbach,0.0,0.19,0.02,0.18
+João Neves,fr Ligue 1,pt POR,19.0,"MF,DF",Paris S-G,0.15,0.39,0.15,0.2
+Mikayil Ngor Faye,fr Ligue 1,sn SEN,20.0,DF,Rennes,0.0,0.0,0.05,0.0
+Steve Ngoura,fr Ligue 1,fr FRA,19.0,FW,Le Havre,0.0,0.0,0.4,0.14
+Bernard Nguene,fr Ligue 1,cm CMR,17.0,FW,Nice,0.0,0.0,0.0,0.0
+Oliver Nielsen,it Serie A,dk DEN,21.0,DF,Lazio,0.0,0.0,0.0,0.0
+Eybi Nije,it Serie A,se SWE,19.0,"FW,MF",Torino,0.23,0.0,0.34,0.1
+Adrian Niño,es La Liga,es ESP,20.0,FW,Atlético Madrid,0.0,0.0,1.44,0.0
+Brooke Norton-Cuffy,it Serie A,eng ENG,20.0,"DF,FW",Genoa,0.0,0.0,0.03,0.02
+Hugo Novoa,es La Liga,es ESP,21.0,"DF,MF",Alavés,0.0,0.0,0.18,0.07
+Ernest Nuamah,fr Ligue 1,gh GHA,20.0,"FW,MF",Lyon,0.26,0.09,0.19,0.13
+Gustavo Nunes,eng Premier League,br BRA,18.0,"FW,MF",Brentford,0.0,0.0,0.0,0.0
+Antonio Nusa,de Bundesliga,no NOR,19.0,"MF,DF",RB Leipzig,0.17,0.17,0.09,0.16
+Ethan Nwaneri,eng Premier League,eng ENG,17.0,"FW,MF",Arsenal,0.4,0.2,0.12,0.12
+Rabby Nzingoula,fr Ligue 1,cg CGO,18.0,MF,Montpellier,0.05,0.0,0.06,0.09
+Marwann Nzuzi,fr Ligue 1,fr FRA,20.0,DF,Saint-Étienne,0.0,0.0,0.02,0.05
+Adam Obert,it Serie A,sk SVK,21.0,DF,Cagliari,0.08,0.08,0.07,0.03
+Chidozie Obi-Martin,eng Premier League,dk DEN,16.0,FW,Manchester Utd,0.0,0.0,0.36,0.0
+Wilson Odobert,eng Premier League,fr FRA,19.0,"FW,MF",Tottenham,0.11,0.0,0.17,0.1
+David Odogu,de Bundesliga,de GER,18.0,DF,Wolfsburg,0.0,0.0,0.1,0.0
+Tim Oermann,de Bundesliga,de GER,20.0,DF,Bochum,0.0,0.08,0.01,0.02
+Ifechukwu Ogbus,de Bundesliga,ch SUI,18.0,DF,Freiburg,0.0,0.0,0.0,0.0
+Thiago Ojeda,es La Liga,ar ARG,21.0,MF,Villarreal,0.0,0.0,0.12,0.0
+Hamzat Ojediran,fr Ligue 1,ng NGA,20.0,"MF,FW",Lens,0.22,0.0,0.12,0.09
+Yllan Okou,it Serie A,fr FRA,21.0,DF,Hellas Verona,0.0,0.0,0.0,0.0
+Aingeru Olabarrieta,es La Liga,es ESP,18.0,FW,Athletic Club,0.0,0.0,0.0,0.0
+Kazeem Olaigbe,fr Ligue 1,be BEL,21.0,"MF,FW",Rennes,0.0,0.6,0.09,0.57
+Ben Old,fr Ligue 1,nz NZL,21.0,"FW,MF",Saint-Étienne,0.0,0.0,0.17,0.14
+Jacob Ondrejka,it Serie A,se SWE,21.0,"MF,FW",Parma,1.07,0.0,0.27,0.13
+Fredrik Oppegard,fr Ligue 1,no NOR,21.0,DF,Auxerre,0.0,0.0,0.04,0.03
+Victor Orakpo,fr Ligue 1,ng NGA,18.0,FW,Nice,0.0,0.0,0.81,0.0
+Ike Orazi,fr Ligue 1,ie IRL,17.0,MF,Reims,0.0,0.0,0.0,0.0
+Lewis Orford,eng Premier League,eng ENG,18.0,MF,West Ham,0.0,0.0,0.05,0.04
+Gaetano Oristanio,it Serie A,it ITA,21.0,"FW,MF",Venezia,0.12,0.12,0.16,0.1
+Ángel Ortíz,es La Liga,es ESP,20.0,DF,Betis,0.0,0.25,0.01,0.03
+Gabriel Osei Misehouy,es La Liga,nl NED,19.0,"FW,MF",Girona,0.35,0.0,0.31,0.09
+William Osula,eng Premier League,dk DEN,20.0,FW,Newcastle Utd,0.67,0.0,0.11,0.1
+Jibril Othman,fr Ligue 1,tn TUN,20.0,FW,Saint-Étienne,0.0,0.0,0.0,0.0
+Sebastian Otoa,it Serie A,dk DEN,20.0,DF,Genoa,0.0,0.0,0.0,0.0
+David Otorbi,es La Liga,es ESP,16.0,MF,Valencia,0.0,0.0,0.0,0.0
+Guimissongui Ouattara,fr Ligue 1,fr FRA,18.0,"DF,FW",Strasbourg,0.19,0.19,0.06,0.1
+Kassoum Ouattara,fr Ligue 1,fr FRA,19.0,"DF,FW",Monaco,0.0,0.23,0.04,0.28
+Assan Ouedraogo,de Bundesliga,de GER,18.0,MF,RB Leipzig,0.0,0.0,0.11,0.0
+Beres Owusu,fr Ligue 1,fr FRA,20.0,DF,Saint-Étienne,0.0,0.0,0.0,0.03
+Daniel Oyegoke,it Serie A,eng ENG,21.0,DF,Hellas Verona,0.0,0.0,0.03,0.0
+Nico O’Reilly,eng Premier League,eng ENG,19.0,DF,Manchester City,0.34,0.0,0.22,0.06
+Alex Padilla,es La Liga,es ESP,20.0,GK,Athletic Club,0.0,0.0,0.0,0.0
+Simone Pafundi,it Serie A,it ITA,18.0,"MF,DF",Udinese,0.0,0.0,0.05,0.52
+Tomás Palacios,it Serie A,ar ARG,21.0,DF,Monza,0.0,0.0,0.01,0.0
+Tomás Palacios,it Serie A,ar ARG,21.0,DF,Inter,0.0,0.0,0.0,0.0
+Marco Palestra,it Serie A,it ITA,19.0,DF,Atalanta,0.0,0.0,0.0,0.1
+Matteo Palma,it Serie A,de GER,16.0,DF,Udinese,0.0,0.0,0.0,0.0
+Mats Pannewig,de Bundesliga,de GER,19.0,MF,Bochum,0.0,0.0,0.27,0.04
+Kevin Paredes,de Bundesliga,us USA,21.0,DF,Wolfsburg,0.0,0.73,0.27,0.05
+Iago Parente,es La Liga,es ESP,18.0,DF,Valladolid,0.0,0.0,0.0,0.04
+Aleksandar Pavlovic,de Bundesliga,de GER,20.0,MF,Bayern Munich,0.06,0.0,0.03,0.01
+Nicolas Pays,fr Ligue 1,fr FRA,20.0,"FW,MF",Montpellier,0.0,0.0,0.27,0.03
+Nicolás Paz,it Serie A,ar ARG,19.0,"MF,FW",Como,0.2,0.27,0.31,0.2
+Pedri,es La Liga,es ESP,21.0,MF,Barcelona,0.13,0.16,0.07,0.23
+Kévin Pedro,fr Ligue 1,fr FRA,18.0,DF,Saint-Étienne,0.0,0.0,0.0,0.0
+Timothee Pembele,fr Ligue 1,fr FRA,21.0,DF,Le Havre,0.08,0.0,0.1,0.01
+Peque,es La Liga,es ESP,21.0,"MF,FW",Sevilla,0.08,0.08,0.2,0.1
+Sergiu Perciun,it Serie A,md MDA,18.0,"FW,MF",Torino,0.0,0.0,0.03,0.08
+Óscar Perea,fr Ligue 1,co COL,18.0,"MF,DF",Strasbourg,0.0,0.0,0.09,0.0
+Francisco Perez,es La Liga,es ESP,21.0,"FW,MF",Valencia,0.0,0.0,0.05,0.4
+Máximo Perrone,it Serie A,ar ARG,21.0,MF,Como,0.0,0.15,0.04,0.11
+Noah Pesch,de Bundesliga,hr CRO,19.0,FW,Gladbach,0.0,0.0,0.0,0.0
+Prosper Peter,fr Ligue 1,ng NGA,16.0,"MF,FW",Angers,0.0,0.0,0.0,0.0
+Valentín Pezzolesi,es La Liga,es ESP,17.0,DF,Las Palmas,0.0,0.0,0.0,0.0
+Yeremi Pino,es La Liga,es ESP,21.0,"MF,FW",Villarreal,0.19,0.33,0.18,0.25
+Nicola Pintus,it Serie A,it ITA,19.0,DF,Cagliari,0.0,0.0,0.0,0.0
+Niccolò Pisilli,it Serie A,it ITA,19.0,MF,Roma,0.15,0.07,0.2,0.05
+Damián Pizarro,it Serie A,cl CHI,19.0,"FW,MF",Udinese,0.0,0.0,0.0,0.0
+Alfie Pond,eng Premier League,eng ENG,20.0,DF,Wolves,0.0,0.0,0.0,0.0
+Tom Pouilly,fr Ligue 1,fr FRA,21.0,"DF,MF",Lens,0.0,0.0,0.14,0.15
+Matteo Prati,it Serie A,it ITA,20.0,MF,Cagliari,0.0,0.0,0.02,0.11
+David Preu,de Bundesliga,de GER,19.0,"MF,DF",Union Berlin,0.0,0.0,0.1,0.0
+Diego Pugno,it Serie A,it ITA,18.0,FW,Juventus,0.0,0.0,0.0,0.76
+Jarell Quansah,eng Premier League,eng ENG,21.0,DF,Liverpool,0.0,0.0,0.02,0.02
+Leopold Querfeld,de Bundesliga,at AUT,20.0,DF,Union Berlin,0.1,0.1,0.06,0.05
+Arnau Rafús,es La Liga,es ESP,21.0,GK,Valladolid,0.0,0.0,0.0,0.0
+Antonio Raimondo,it Serie A,it ITA,20.0,"FW,DF",Venezia,0.0,0.0,0.31,0.09
+Jacobo Ramón,es La Liga,es ESP,19.0,DF,Real Madrid,0.44,0.0,0.07,0.09
+Grant Ranos,de Bundesliga,am ARM,21.0,FW,Gladbach,0.0,0.0,0.0,0.0
+Remy Rees-Dottin,eng Premier League,eng ENG,18.0,FW,Bournemouth,0.0,0.0,0.0,0.0
+Vitor Reis,eng Premier League,br BRA,18.0,DF,Manchester City,0.0,0.0,0.0,0.0
+Devyne Rensch,it Serie A,nl NED,21.0,DF,Roma,0.0,0.19,0.05,0.15
+Daniel Requena,es La Liga,es ESP,20.0,MF,Villarreal,0.0,0.0,0.0,0.0
+Guillaume Restes,fr Ligue 1,fr FRA,19.0,GK,Toulouse,0.0,0.04,0.0,0.0
+Gio Reyna,de Bundesliga,us USA,21.0,MF,Dortmund,0.51,0.0,0.04,0.06
+Chadi Riad,eng Premier League,ma MAR,21.0,DF,Crystal Palace,0.0,0.0,0.0,0.0
+Alberto Risco,es La Liga,es ESP,18.0,"MF,FW",Getafe,0.0,0.0,0.22,0.19
+Gorka Rivera Alonso,es La Liga,es ESP,19.0,"DF,MF",Getafe,0.0,0.0,0.0,0.0
+Jay Robinson,eng Premier League,eng ENG,17.0,"MF,FW",Southampton,0.0,0.0,0.03,0.44
+Alejandro Rodriguez,fr Ligue 1,pt POR,16.0,MF,Lyon,0.0,0.0,0.0,0.0
+Álvaro Rodríguez,es La Liga,uy URU,20.0,FW,Getafe,0.21,0.0,0.13,0.03
+Arturo Rodríguez,es La Liga,es ESP,17.0,FW,Las Palmas,0.0,0.0,0.0,0.0
+Damián Rodríguez,es La Liga,es ESP,21.0,MF,Celta Vigo,0.0,0.0,0.01,0.08
+Daniel Rodriguez,es La Liga,es ESP,18.0,FW,Barcelona,0.0,0.0,0.06,0.0
+Javi Rodríguez,es La Liga,es ESP,21.0,DF,Celta Vigo,0.11,0.07,0.08,0.04
+Jesus Rodríguez,es La Liga,es ESP,18.0,FW,Betis,0.16,0.0,0.18,0.02
+Luka Romero,es La Liga,ar ARG,19.0,"FW,MF",Alavés,0.0,0.0,0.37,0.08
+Vitor Roque,es La Liga,br BRA,19.0,FW,Betis,0.29,0.0,0.44,0.09
+Max Rosenfelder,de Bundesliga,de GER,21.0,DF,Freiburg,0.07,0.0,0.03,0.05
+Tom Rothe,de Bundesliga,de GER,19.0,"DF,MF",Union Berlin,0.16,0.16,0.1,0.07
+Jonas Rouhi,it Serie A,se SWE,20.0,DF,Juventus,0.0,0.0,0.0,0.0
+Jon Rowe,fr Ligue 1,eng ENG,21.0,"FW,MF",Marseille,0.33,0.33,0.39,0.5
+Tommaso Rubino,it Serie A,it ITA,17.0,MF,Fiorentina,0.0,0.0,0.0,0.53
+Ferrán Ruiz,es La Liga,es ESP,21.0,MF,Girona,0.0,0.0,0.0,0.0
+Richie Sagrado,it Serie A,be BEL,20.0,DF,Venezia,0.0,0.0,0.03,0.0
+Faik Sakar,de Bundesliga,de GER,16.0,MF,RB Leipzig,0.0,0.0,0.0,0.0
+Jan Salas,es La Liga,es ESP,18.0,"MF,FW",Mallorca,0.0,0.0,0.12,0.0
+Chuky san jose,es La Liga,es ESP,20.0,MF,Valladolid,0.25,0.0,0.28,0.15
+Juanlu Sánchez,es La Liga,es ESP,20.0,"MF,DF",Sevilla,0.21,0.21,0.11,0.15
+Nhoa Sangui,fr Ligue 1,fr FRA,18.0,"DF,MF",Reims,0.0,0.16,0.01,0.04
+Jesús Santiago,es La Liga,es ESP,20.0,MF,Getafe,0.0,0.0,0.01,0.0
+Andrey Santos,fr Ligue 1,br BRA,20.0,MF,Strasbourg,0.32,0.09,0.16,0.1
+Kauã Santos,de Bundesliga,br BRA,21.0,GK,Eint Frankfurt,0.0,0.0,0.0,0.0
+Mamadou Sarr,fr Ligue 1,fr FRA,18.0,DF,Strasbourg,0.0,0.04,0.03,0.01
+Sávio,eng Premier League,br BRA,20.0,"FW,MF",Manchester City,0.05,0.41,0.26,0.35
+Nicolò Savona,it Serie A,it ITA,21.0,DF,Juventus,0.1,0.05,0.02,0.06
+Joe Scally,de Bundesliga,us USA,21.0,DF,Gladbach,0.0,0.0,0.01,0.04
+Giorgio Scalvini,it Serie A,it ITA,20.0,DF,Atalanta,0.0,0.0,0.05,0.0
+Oliver Scarles,eng Premier League,eng ENG,18.0,"DF,FW",West Ham,0.0,0.0,0.01,0.01
+Dane Scarlett,eng Premier League,eng ENG,20.0,"FW,MF",Tottenham,0.0,2.65,0.09,0.12
+Joël Schingtienne,it Serie A,be BEL,21.0,DF,Venezia,0.0,0.0,0.0,0.01
+Alex Scott,eng Premier League,eng ENG,20.0,MF,Bournemouth,0.0,0.0,0.09,0.11
+Jérémy Sebas,fr Ligue 1,mq MTQ,21.0,"FW,MF",Strasbourg,0.0,0.0,0.35,0.01
+Jacopo Seghetti,it Serie A,it ITA,19.0,GK,Empoli,0.0,0.0,0.0,0.0
+Hiroki Sekine,fr Ligue 1,jp JPN,21.0,DF,Reims,0.0,0.0,0.01,0.02
+Nicolás Serrano,es La Liga,es ESP,21.0,FW,Athletic Club,0.0,0.0,0.13,0.02
+Benjamin Šeško,de Bundesliga,si SVN,21.0,"FW,MF",RB Leipzig,0.49,0.19,0.38,0.08
+Armindo Sieb,de Bundesliga,de GER,21.0,"FW,MF",Mainz 05,0.24,0.24,0.33,0.13
+Zain Silcott-Duberry,eng Premier League,ms MSR,19.0,FW,Bournemouth,0.0,0.0,0.0,0.0
+Eric da Silva Moreira,eng Premier League,de GER,18.0,"MF,DF",Nott'ham Forest,0.0,0.0,0.0,0.0
+Giuliano Simeone,es La Liga,ar ARG,21.0,MF,Atlético Madrid,0.09,0.28,0.1,0.24
+Xavi Simons,de Bundesliga,nl NED,21.0,MF,RB Leipzig,0.42,0.25,0.21,0.26
+Jahmai Simpson-Pusey,eng Premier League,eng ENG,18.0,DF,Manchester City,0.0,0.0,0.0,0.0
+Ayanda Sishuba,fr Ligue 1,be BEL,19.0,FW,Rennes,0.0,0.0,0.0,0.0
+Niama Sissoko,fr Ligue 1,ml MLI,18.0,"FW,MF",Reims,0.0,0.0,0.54,0.0
+Justin Smith,es La Liga,ca CAN,21.0,MF,Espanyol,0.0,0.0,0.0,0.02
+Arnau Solà,es La Liga,es ESP,21.0,MF,Villarreal,0.0,0.0,0.0,0.0
+Julio Soler,eng Premier League,ar ARG,19.0,"DF,FW",Bournemouth,0.0,0.0,0.0,0.0
+Jhon Solis,es La Liga,co COL,19.0,MF,Girona,0.17,0.0,0.11,0.01
+Hugo Sotelo,es La Liga,es ESP,20.0,MF,Celta Vigo,0.0,0.0,0.01,0.12
+Matìas Soulé,it Serie A,ar ARG,21.0,"MF,DF",Roma,0.25,0.25,0.15,0.26
+Jay Stansfield,eng Premier League,eng ENG,21.0,MF,Fulham,0.0,0.0,0.0,0.0
+Lucas Stassin,fr Ligue 1,be BEL,19.0,FW,Saint-Étienne,0.57,0.19,0.35,0.17
+Orri Steinn Óskarsson,es La Liga,is ISL,19.0,FW,Real Sociedad,0.29,0.0,0.5,0.02
+Enzo Sternal,fr Ligue 1,fr FRA,17.0,"FW,MF",Marseille,0.0,0.0,0.0,0.09
+Finley Stevens,de Bundesliga,wls WAL,21.0,DF,St. Pauli,0.0,0.0,0.0,0.0
+Luka Sučić,es La Liga,hr CRO,21.0,MF,Real Sociedad,0.05,0.05,0.17,0.13
+Ibrahim Sulemana,it Serie A,gh GHA,21.0,MF,Atalanta,0.64,0.0,0.18,0.01
+Zion Suzuki,it Serie A,jp JPN,21.0,GK,Parma,0.0,0.0,0.0,0.0
+Williot Swedberg,es La Liga,se SWE,20.0,"FW,MF",Celta Vigo,0.27,0.33,0.35,0.17
+Abakar Sylla,fr Ligue 1,ci CIV,21.0,DF,Strasbourg,0.09,0.0,0.04,0.01
+Axel Tapé,fr Ligue 1,fr FRA,16.0,"DF,MF",Paris S-G,0.0,0.0,0.02,0.0
+Loum Tchaouna,it Serie A,fr FRA,20.0,"FW,MF",Lazio,0.14,0.0,0.34,0.08
+Enzo Tchato,fr Ligue 1,cm CMR,21.0,DF,Montpellier,0.0,0.0,0.01,0.07
+Martín Tejón,es La Liga,es ESP,20.0,"MF,DF",Valencia,0.0,0.0,0.16,0.05
+Mathys Tel,eng Premier League,fr FRA,19.0,FW,Tottenham,0.2,0.1,0.29,0.25
+Mathys Tel,de Bundesliga,fr FRA,19.0,"FW,MF",Bayern Munich,0.0,0.35,0.26,0.1
+Filippo Terracciano,it Serie A,it ITA,21.0,"DF,MF",Milan,0.0,0.0,0.03,0.02
+Umut Tohumcu,de Bundesliga,de GER,19.0,"MF,FW",Hoffenheim,0.0,0.24,0.03,0.09
+Luka Topalović,it Serie A,si SVN,18.0,MF,Inter,0.0,0.0,0.0,0.0
+Pablo Torre,es La Liga,es ESP,21.0,"MF,FW",Barcelona,0.87,0.29,0.11,0.23
+David Torres,es La Liga,es ESP,21.0,DF,Valladolid,0.0,0.0,0.02,0.0
+Lorenzo Tosto,it Serie A,it ITA,18.0,DF,Empoli,0.0,0.0,0.0,0.0
+Bazoumana Touré,de Bundesliga,ci CIV,18.0,"FW,MF",Hoffenheim,0.0,0.44,0.21,0.28
+Ousmane Toure,fr Ligue 1,fr FRA,19.0,DF,Lille,0.0,0.0,0.0,0.0
+Souleymane Touré,it Serie A,fr FRA,21.0,DF,Udinese,0.12,0.0,0.05,0.01
+Ryan Trevitt,eng Premier League,eng ENG,21.0,MF,Brentford,0.0,0.0,0.0,0.0
+Christantus Uche,es La Liga,ng NGA,21.0,"FW,MF",Getafe,0.14,0.22,0.14,0.1
+Destiny Udogie,eng Premier League,it ITA,21.0,DF,Tottenham,0.0,0.05,0.01,0.07
+Lesley Ugochukwu,eng Premier League,fr FRA,20.0,MF,Southampton,0.05,0.05,0.05,0.06
+Lukas Ullrich,de Bundesliga,de GER,20.0,DF,Gladbach,0.05,0.09,0.04,0.09
+Naci Ünüvar,es La Liga,nl NED,21.0,"MF,DF",Espanyol,0.0,0.0,0.14,0.09
+Kacper Urbanski,it Serie A,pl POL,19.0,MF,Bologna,0.36,0.0,0.12,0.17
+Kacper Urbanski,it Serie A,pl POL,19.0,MF,Monza,0.0,0.0,0.03,0.03
+Jonas Urbig,de Bundesliga,de GER,20.0,GK,Bayern Munich,0.0,0.0,0.0,0.0
+Can Uzun,de Bundesliga,tr TUR,18.0,"MF,FW",Eint Frankfurt,0.53,0.13,0.4,0.15
+Álex Valle,it Serie A,es ESP,20.0,DF,Como,0.0,0.0,0.03,0.06
+Robinio Vaz,fr Ligue 1,fr FRA,17.0,FW,Marseille,0.0,0.0,0.61,0.0
+Jesus Vazquez,es La Liga,es ESP,21.0,DF,Valencia,0.0,0.0,0.01,0.06
+Danilo Veiga,it Serie A,pt POR,21.0,DF,Lecce,0.0,0.0,0.15,0.06
+Renato Veiga,eng Premier League,pt POR,21.0,"DF,MF",Chelsea,0.0,0.0,0.07,0.0
+Renato Veiga,it Serie A,pt POR,21.0,DF,Juventus,0.0,0.08,0.08,0.0
+Alejo Véliz,es La Liga,ar ARG,20.0,FW,Espanyol,0.08,0.0,0.18,0.04
+Lorenzo Venturino,it Serie A,it ITA,18.0,"FW,MF",Genoa,1.08,0.0,0.39,0.1
+Nikolas Veratschnig,de Bundesliga,at AUT,21.0,"DF,MF",Mainz 05,0.0,0.0,0.06,0.08
+Bart Verbruggen,eng Premier League,nl NED,21.0,GK,Brighton,0.0,0.03,0.0,0.0
+Arthur Vermeeren,de Bundesliga,be BEL,19.0,MF,RB Leipzig,0.0,0.11,0.02,0.05
+Ben Viadere,fr Ligue 1,fr FRA,18.0,MF,Auxerre,0.0,0.0,0.0,0.85
+Gabriel Vidovic,de Bundesliga,hr CRO,20.0,MF,Mainz 05,0.0,0.0,1.17,0.0
+Gabriel Vidovic,de Bundesliga,hr CRO,20.0,MF,Bayern Munich,0.0,0.0,0.41,0.0
+Sergio Viera,es La Liga,es ESP,19.0,MF,Las Palmas,0.0,0.0,0.02,0.0
+Samuele Vignato,it Serie A,it ITA,20.0,MF,Monza,0.0,0.0,0.06,0.01
+Krapyvtsov Vladyslav,es La Liga,ua UKR,19.0,GK,Girona,0.0,0.0,0.0,0.0
+Vanja Vlahović,it Serie A,rs SRB,20.0,"FW,MF",Atalanta,0.0,0.0,0.23,0.15
+Aster Vranckx,de Bundesliga,be BEL,21.0,MF,Wolfsburg,0.0,0.0,0.0,0.01
+Robert Wagner,de Bundesliga,de GER,21.0,MF,St. Pauli,0.0,0.0,0.02,0.0
+Elye Wahi,fr Ligue 1,fr FRA,21.0,FW,Marseille,0.47,0.16,0.94,0.07
+Elye Wahi,de Bundesliga,fr FRA,21.0,"FW,MF",Eint Frankfurt,0.0,0.0,0.58,0.04
+Paul Wanner,de Bundesliga,de GER,18.0,"MF,FW",Heidenheim,0.15,0.1,0.19,0.06
+Kjell-Arik Wätjen,de Bundesliga,de GER,18.0,MF,Dortmund,0.0,0.0,0.0,0.0
+Nelson Weiper,de Bundesliga,de GER,19.0,"FW,MF",Mainz 05,0.38,0.26,0.52,0.25
+Adam Wharton,eng Premier League,eng ENG,20.0,MF,Crystal Palace,0.0,0.14,0.03,0.21
+Caleb Wiley,fr Ligue 1,us USA,19.0,"DF,MF",Strasbourg,0.0,0.34,0.01,0.23
+Ben Winterburn,eng Premier League,eng ENG,19.0,"MF,FW",Bournemouth,0.0,0.0,0.0,0.0
+Florian Wirtz,de Bundesliga,de GER,21.0,"MF,FW",Leverkusen,0.38,0.46,0.36,0.27
+Lamine Yamal,es La Liga,es ESP,17.0,FW,Barcelona,0.28,0.41,0.31,0.44
+Daniel Yáñez,es La Liga,es ESP,17.0,FW,Real Madrid,0.0,0.0,0.0,0.0
+Yehor Yarmoliuk,eng Premier League,ua UKR,20.0,MF,Brentford,0.0,0.0,0.04,0.05
+Kenan Yıldız,it Serie A,tr TUR,19.0,"FW,MF",Juventus,0.26,0.15,0.16,0.19
+Leny Yoro,eng Premier League,fr FRA,18.0,DF,Manchester Utd,0.0,0.0,0.05,0.01
+Illia Zabarnyi,eng Premier League,ua UKR,21.0,DF,Bournemouth,0.0,0.03,0.04,0.02
+Eloge Zabi,fr Ligue 1,ci CIV,17.0,"DF,MF",Reims,0.0,0.0,0.0,0.0
+Yoram Zague,fr Ligue 1,fr FRA,18.0,"DF,FW",Paris S-G,0.0,0.0,0.02,0.03
+Warren Zaïre-Emery,fr Ligue 1,fr FRA,18.0,"MF,DF",Paris S-G,0.04,0.09,0.07,0.06
+Arsen Zakharyan,es La Liga,ru RUS,21.0,"MF,FW",Real Sociedad,1.23,0.0,0.24,0.12
+Kevin Zeroli,it Serie A,it ITA,19.0,MF,Monza,0.0,0.23,0.17,0.11
+Kevin Zeroli,it Serie A,it ITA,19.0,MF,Milan,0.0,0.0,0.0,0.0
+Nathan Zeze,fr Ligue 1,fr FRA,19.0,DF,Nantes,0.0,0.0,0.02,0.0
+Luc Zogbé,fr Ligue 1,ci CIV,19.0,DF,Brest,0.0,0.0,0.04,0.02
+Aristide Zossou,fr Ligue 1,ci CIV,19.0,MF,Auxerre,0.0,0.0,0.0,0.0
+Edhy Zuliani,fr Ligue 1,fr FRA,19.0,DF,Toulouse,0.0,0.0,0.0,0.0
